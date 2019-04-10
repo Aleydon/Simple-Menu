@@ -1,3 +1,3 @@
 # Technology-A #
-*Simple Menu width icons*
-*Using Font Awesome and Bootstrap*
+*Simple Menu with icons*
+*Using Font-Awesome and Bootstrap*
